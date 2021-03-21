@@ -21,7 +21,8 @@ async def _start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Join Project Channel!', url='https://t.me/odbots')
+                    InlineKeyboardButton('Contact My Boss!', url='https://t.me/rajeshsaini2113')
+                    InlineKeyboardButton('Subscribe Channel', url='https://www.youtube.com/YOSTARTRICKS')
                 ]
             ]
         )
