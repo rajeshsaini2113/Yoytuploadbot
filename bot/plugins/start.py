@@ -22,7 +22,6 @@ async def _start(c, m):
             [
                 [
                     InlineKeyboardButton('Contact My Boss!', url='https://t.me/rajeshsaini2113')
-                    InlineKeyboardButton('Subscribe Channel', url='https://www.youtube.com/YOSTARTRICKS')
                 ]
             ]
         )
